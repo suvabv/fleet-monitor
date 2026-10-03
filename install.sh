@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-REPO="REPLACE-ME-OWNER/REPLACE-ME-REPO"
+REPO="suvabv/fleet-monitor"
 BASE_URL="${FLEET_MONITOR_BASE_URL:-https://github.com/$REPO/releases/latest/download}"
 INSTALL_DIR="${FLEET_MONITOR_INSTALL_DIR:-$HOME/.local/bin}"
 SKILL_DIR="${FLEET_MONITOR_SKILL_DIR:-$HOME/.claude/skills/fleet-monitor}"

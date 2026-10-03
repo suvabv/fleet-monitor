@@ -6,6 +6,10 @@
   "bin": {
     "fleet-monitor": "./bin.mjs"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suvabv/fleet-monitor.git"
+  },
   "engines": {
     "node": ">=18"
   }

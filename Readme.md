@@ -42,4 +42,5 @@ GitHub Copilot CLI isn't currently supported.
 
 **curl:**
 ```bash
-curl -fsSL [https://github.com/](https://github.com/)<owner>/<repo>/releases/latest/download/install.sh | bash
+curl -fsSL https://github.com/suvabv/fleet-monitor/releases/latest/download/install.sh | bash
+```
