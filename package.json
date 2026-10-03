@@ -1,0 +1,12 @@
+{
+  "name": "Fleet-monitor",
+  "version": "1.0.0",
+  "description": "Live dashboard of Claude Code sessions running on this machine",
+  "type": "module",
+  "bin": {
+    "fleet-monitor": "./bin.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
